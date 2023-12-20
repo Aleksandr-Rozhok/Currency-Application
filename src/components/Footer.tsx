@@ -1,7 +1,7 @@
 const Footer: React.FC = () => {
   return (
     <footer>
-      <p>&copy; 2023 Мой Финансовый Апп</p>
+      <p>&copy; 2023 Financial App</p>
     </footer>
   );
 };

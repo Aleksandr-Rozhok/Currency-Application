@@ -1,7 +1,7 @@
 const Header: React.FC = () => {
   return (
     <header>
-      <h1>Мой Финансовый Апп</h1>
+      <h1>Financial App</h1>
     </header>
   );
 };
